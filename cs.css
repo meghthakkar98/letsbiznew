@@ -1,0 +1,9 @@
+body{ font-family:'arial'; font-size:1em; background-color: #fafafa; padding-left: 10%;padding-right: 15%; }
+ul, ol{ margin-top: 0; margin-bottom: 0; }
+.Normal{text-align:left;page-break-inside:auto;page-break-after:auto;page-break-before:avoid;line-height:115%;margin-top:0pt;margin-bottom:10pt;font-family:Calibri;font-size:11pt;text-transform:none;font-weight:normal;font-style:normal;font-variant:normal;}
+.Default-Paragraph-Font{font-family:Calibri;font-size:11pt;text-transform:none;font-weight:normal;font-style:normal;font-variant:normal;}
+.Normal-Table{}
+.No-List{}
+.Normal--Web-{text-align:left;page-break-inside:auto;page-break-after:auto;page-break-before:avoid;line-height:normal;-sf-before-space-auto:yes;margin-top:14pt;-sf-after-space-auto:yes;margin-bottom:14pt;font-family:Times New Roman;font-size:12pt;text-transform:none;font-weight:normal;font-style:normal;font-variant:normal;}
+.List-Paragraph{text-align:left;page-break-inside:auto;page-break-after:auto;page-break-before:avoid;line-height:115%;margin-top:0pt;margin-bottom:10pt;margin-left:36pt;font-family:Calibri;font-size:11pt;text-transform:none;font-weight:normal;font-style:normal;font-variant:normal;}
+.Hyperlink{color:#0000FF;font-family:Calibri;font-size:11pt;text-transform:none;font-weight:normal;font-style:normal;font-variant:normal;text-decoration: underline;}
